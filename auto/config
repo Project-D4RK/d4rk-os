@@ -5,7 +5,7 @@ set -e
 lb config noauto \
 	-d "buster" \
 	--architectures "amd64" \
-	--debian-installer "cdrom" \
+	--debian-installer "normal" \
 	--debian-installer-gui true \
 	--memtest none \
 	--linux-packages "linux-image linux-headers" \
