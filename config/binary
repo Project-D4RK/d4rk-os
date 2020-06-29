@@ -42,8 +42,8 @@ LB_ZSYNC="true"
 LB_BUILD_WITH_CHROOT="true"
 
 # $LB_DEBIAN_INSTALLER: set debian-installer
-# (Default: cdrom)
-LB_DEBIAN_INSTALLER="cdrom"
+# (Default: live)
+LB_DEBIAN_INSTALLER="live"
 
 # $LB_DEBIAN_INSTALLER_DISTRIBUTION: set debian-installer suite
 # (Default: empty)
@@ -102,8 +102,8 @@ LB_MEMTEST="none"
 LB_LOADLIN="true"
 
 # $LB_WIN32_LOADER: set win32-loader
-# (Default: true)
-LB_WIN32_LOADER="true"
+# (Default: false)
+LB_WIN32_LOADER="false"
 
 # $LB_NET_ROOT_FILESYSTEM: set netboot filesystem
 # (Default: nfs)

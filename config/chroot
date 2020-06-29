@@ -22,7 +22,7 @@ LB_LINUX_FLAVOURS="amd64"
 
 # $LB_LINUX_PACKAGES: set kernel packages to use
 # (Default: autodetected)
-LB_LINUX_PACKAGES="linux-image linux-headers"
+LB_LINUX_PACKAGES="linux-image"
 
 # $LB_SECURITY: enable security updates
 # (Default: true)

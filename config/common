@@ -61,8 +61,8 @@ LB_INITRAMFS="live-boot"
 LB_INITRAMFS_COMPRESSION="gzip"
 
 # $LB_INITSYSTEM: set init system
-# (Default: systemd)
-LB_INITSYSTEM="systemd"
+# (Default: runit)
+LB_INITSYSTEM="runit"
 
 # $LB_FDISK: set fdisk program
 # (Default: autodetected)

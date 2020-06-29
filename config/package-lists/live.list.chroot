@@ -1,6 +1,5 @@
 live-boot
 live-config
-live-config-systemd
 kde-standard
 sddm
 wget
