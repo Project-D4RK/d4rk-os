@@ -1,4 +1,5 @@
 # d4rk-os
 d4rk os version 1
 
-I will have a prebuilt image available to download once this is finished for people who just want usb to make hdd go vroom and not bother building/customizing the image
+prebuilt image can be found here:
+https://mega.nz/file/n7RknIrT#YLHmc7BDF20kaAzi8RevY0ok1q5s_IPOq2P3pRTJVMc
