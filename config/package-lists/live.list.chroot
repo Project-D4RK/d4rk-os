@@ -1,2 +1,20 @@
 live-boot
 live-config
+sddm
+wget
+curl
+tasksel
+apper
+plasma-nm
+task-kde-desktop
+libluajit-5.1-2
+libnet1
+libcurl4
+
+#system applications
+
+apache2
+git
+upx-ucl
+brasero
+gedit

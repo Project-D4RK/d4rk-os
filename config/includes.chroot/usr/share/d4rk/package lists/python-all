@@ -1,0 +1,10 @@
+python
+python-qrcode
+python-pefile
+python-requests
+python-paramiko
+python-pil
+python-crypto
+python-pexpect
+python-impacket
+
