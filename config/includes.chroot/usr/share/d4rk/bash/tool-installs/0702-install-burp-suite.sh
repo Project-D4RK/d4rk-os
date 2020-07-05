@@ -1,0 +1,5 @@
+#!/bin/sh
+
+set -e
+
+wget "http://http.kali.org/pool/main/b/burpsuite/burpsuite_2020.2.1-0kali1_amd64.deb"; dpkg -i burpsuite_2020.2.1-0kali1_amd64.deb; sudo rm -rf burpsuite_2020.2.1-0kali1_amd64.deb

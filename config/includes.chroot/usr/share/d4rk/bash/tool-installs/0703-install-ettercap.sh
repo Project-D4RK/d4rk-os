@@ -1,0 +1,5 @@
+#!/bin/sh
+
+#set -e
+
+#wget "http://http.kali.org/pool/main/e/ettercap/ettercap-common_0.8.2-10+b2_amd64.deb"; dpkg -i ettercap-common_0.8.2-10+b2_amd64.deb; rm -rf ettercap-common_0.8.2-10+b2_amd64.deb; wget "http://http.kali.org/pool/main/e/ettercap/ettercap-dbg_0.8.2-10+b2_amd64.deb"; dpkg -i ettercap-dbg_0.8.2-10+b2_amd64.deb; rm -rf ettercap-dbg_0.8.2-10+b2_amd64.deb; wget "http://http.kali.org/pool/main/e/ettercap/ettercap-graphical_0.8.2-10+b2_amd64.deb"; dpkg -i ettercap-graphical_0.8.2-10+b2_amd64.deb; rm -rf ettercap-graphical_0.8.2-10+b2_amd64.deb; apt-get -f install; wget "http://http.kali.org/pool/main/e/ettercap/ettercap-common_0.8.2-10+b2_amd64.deb"; dpkg -i ettercap-common_0.8.2-10+b2_amd64.deb; rm -rf ettercap-common_0.8.2-10+b2_amd64.deb; wget "http://http.kali.org/pool/main/e/ettercap/ettercap-dbg_0.8.2-10+b2_amd64.deb"; dpkg -i ettercap-dbg_0.8.2-10+b2_amd64.deb; rm -rf ettercap-dbg_0.8.2-10+b2_amd64.deb; wget "http://http.kali.org/pool/main/e/ettercap/ettercap-graphical_0.8.2-10+b2_amd64.deb"; dpkg -i ettercap-graphical_0.8.2-10+b2_amd64.deb; rm -rf ettercap-graphical_0.8.2-10+b2_amd64.deb
