@@ -1,4 +1,7 @@
 # d4rk-os
+
+*For developers clone the development branch
+
 d4rk os version 1
 
 prebuilt stable image can be found here:
