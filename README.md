@@ -1,6 +1,10 @@
 # d4rk-os
 
+<<<<<<< unstable
 *For developers clone the unstable branch*
+=======
+*For developers clone the development branch
+>>>>>>> Update README.md
 
 d4rk os version 1
 
