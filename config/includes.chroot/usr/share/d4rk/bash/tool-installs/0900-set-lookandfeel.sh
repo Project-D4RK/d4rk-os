@@ -1,4 +1,0 @@
-#!/bin/sh
-
-set -e
-rm -rf /usr/share/plasma/look-and-feel/org.kde.breezedark.desktop
