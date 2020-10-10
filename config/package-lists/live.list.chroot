@@ -53,5 +53,7 @@ netcat
 
 nmap
 wireshark
-
+lynis
 sqlmap
+dirb
+nikto
