@@ -12,4 +12,8 @@ lb config noauto \
 	--initsystem "runit" \
 	--archive-areas "main contrib non-free" \
 	--linux-packages "linux-image" \
+	--iso-application "D4RK-os" \
+	--iso-publisher "Project D4RK" \
+	--iso-volume "D4RK-OS_BETA" \
+	--bootappend-live "boot=live hostname=D4RK splash noautomount" \
 	"${@}"
