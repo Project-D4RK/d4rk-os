@@ -1,6 +1,6 @@
 # d4rk-os
 
-*For developers clone the development branch
+*For developers clone the development branch*
 
 d4rk os version 1
 
