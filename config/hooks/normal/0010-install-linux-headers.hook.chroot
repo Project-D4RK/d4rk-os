@@ -1,0 +1,5 @@
+!#/bin/sh
+
+set -e
+
+sudo apt-get install build-essential dkms linux-headers-$(uname -r);
