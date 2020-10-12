@@ -1,5 +1,6 @@
 # d4rk-os
 **NOTE: Curently the os is awful and we dont have our own repository as of right now**
+
 *For developers clone the unstable branch*
 
 d4rk os version 1
