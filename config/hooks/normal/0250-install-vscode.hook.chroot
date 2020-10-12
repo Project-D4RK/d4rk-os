@@ -1,0 +1,4 @@
+#!/bin/sh
+set -e
+
+wget https://az764295.vo.msecnd.net/stable/93c2f0fbf16c5a4b10e4d5f89737d9c2c25488a3/code_1.50.0-1602051089_amd64.deb; sudo apt-get install ./code*.deb;
