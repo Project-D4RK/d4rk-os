@@ -4,9 +4,11 @@
 
 Current Verson: (BETA)
 
-# Build unstable image
+# Build unstable or raw image
 To build an unstable image: <br>
-```git clone -b unstable https://github.com/AJHblu/d4rk-os.git; cd d4rk-os; sudo apt-get install live-build -y; sudo lb build```
+```git clone -b unstable https://github.com/Project-D4RK/d4rk-os.git; cd d4rk-os; sudo apt-get install live-build -y; sudo lb build```
+To build an raw image:
+```git clone -b iso-images https://github.com/Project-D4RK/d4rk-os.git; cd d4rk-os/raw/YOUR_VERSION/; sudo apt-get install live-build -y; sudo lb build```
 
 
 ------------------------------------------------------------
