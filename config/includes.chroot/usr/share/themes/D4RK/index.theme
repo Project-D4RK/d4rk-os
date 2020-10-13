@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=D4RK
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=Arc-Dark
+MetacityTheme=Flat-Remix
+IconTheme=Flat-Remix-Red-Dark
+GtkColorScheme=menu_bg: #383c4a
+CursorTheme=Adwaita
+CursorSize=24
+NotificationTheme=coco
+BackgroundImage=/usr/share/backgrounds/mate/abstract/Spring.png
