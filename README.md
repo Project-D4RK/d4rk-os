@@ -1,11 +1,9 @@
 # D4RK-OS
-d4rk os development build<br>
-*New developers image can be found in the 'unstable' branch. For developers visit 'Raw Images' in the "iso-images" branch*
+**d4rk os development build**<br>
+*For older developers images visit 'Raw Images' in the "iso-images" branch*
 
-## prebuilt stable image:
-If your looking for a stable image check out [this page..](https://mega.nz/file/n7RknIrT#YLHmc7BDF20kaAzi8RevY0ok1q5s_IPOq2P3pRTJVMc)
-
-
+# How to build an unstable image:
+```git clone -b unstable https://github.com/Project-D4RK/d4rk-os.git; cd d4rk-os; sudo apt-get install live-build -y; sudo lb build```
 
 ------------------------------------------------------------
 
