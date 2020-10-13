@@ -1,10 +1,12 @@
-# d4rk-os
-**NOTE: Curently the os is awful and we dont have our own repository as of right now**
+# D4RK-OS
+d4rk os development build<br>
+*New developers image can be found in the 'unstable' branch. For developers visit 'Raw Images' in the "iso-images" branch*
 
-*For developers clone the unstable branch*
+## prebuilt stable image:
+If your looking for a stable image check out [this page..](https://mega.nz/file/n7RknIrT#YLHmc7BDF20kaAzi8RevY0ok1q5s_IPOq2P3pRTJVMc)
 
-d4rk os version 1
 
-prebuilt stable image can be found here:
-https://mega.nz/file/CygHhSxD#Fc6aRZx6FP-P1b0oLswN4i4M0drZTTnKo8aAMRHbR6w
-The current image has some basic tools installed and is using the task-mate-desktop metapackage
+
+------------------------------------------------------------
+
+To be continued...
