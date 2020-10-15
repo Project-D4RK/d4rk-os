@@ -5,9 +5,9 @@ Comment=
 
 [X-GNOME-Metatheme]
 GtkTheme=Arc-Dark
-MetacityTheme=Flat-Remix
+MetacityTheme=Flat-Remix-GTK-Red-Dark
 IconTheme=Flat-Remix-Red-Dark
-GtkColorScheme=menu_bg: #383c4a
+GtkColorScheme=menu_bg: #272a34
 CursorTheme=Adwaita
 CursorSize=24
 NotificationTheme=coco
