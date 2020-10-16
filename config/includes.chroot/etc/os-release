@@ -1,0 +1,9 @@
+PRETTY_NAME="D4RK GNU/Linux 1 (pre-release)"
+NAME="D4RK GNU/Linux"
+VERSION_ID="1"
+VERSION="1 (pre-release)"
+VERSION_CODENAME=pre-release
+ID=D4RK
+HOME_URL="https://project-d4rk.github.io/"
+SUPPORT_URL="https://github.com/Project-D4RK/d4rk-os/issues"
+BUG_REPORT_URL="https://github.com/Project-D4RK/d4rk-os/issues"
